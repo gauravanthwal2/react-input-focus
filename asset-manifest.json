@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-input-focus/static/css/main.a913f67c.css",
+    "main.js": "/react-input-focus/static/js/main.7e200f6a.js",
+    "static/js/787.070db070.chunk.js": "/react-input-focus/static/js/787.070db070.chunk.js",
+    "index.html": "/react-input-focus/index.html",
+    "main.a913f67c.css.map": "/react-input-focus/static/css/main.a913f67c.css.map",
+    "main.7e200f6a.js.map": "/react-input-focus/static/js/main.7e200f6a.js.map",
+    "787.070db070.chunk.js.map": "/react-input-focus/static/js/787.070db070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a913f67c.css",
+    "static/js/main.7e200f6a.js"
+  ]
+}
